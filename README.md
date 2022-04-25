@@ -17,3 +17,5 @@ We have solved this problem using simmulated annealing. We have tested for two t
 We have tested for both the methods of neighbourhood generation. The output shows number of cases where method 1 (Choose two locations randomly and swap them) performs better than method 2 (Choose a random segment of the current path and reverse it).
 
 Output is 1/100
+
+Conclusion - Method 2 performs better
